@@ -203,6 +203,7 @@
 
 	ul.style1
 	{
+	text-align:left;
 	list-style-type: disc;	
 	}
 
@@ -294,6 +295,7 @@
 	
 	.title1
 	{
+		color: #FFF;
 		text-align:left;
 	}
 	.title h2
